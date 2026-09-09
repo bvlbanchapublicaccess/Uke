@@ -59,19 +59,15 @@ Public Performance - The right to play recorded video or audio in a public space
 Public Display - The right to show a still image of the work in a public space (Examples: Displaying a painting in a gallery, showing a photo on a website, or showing a still from a movie). 
 Digital Audio Transmission - The right to control digital streaming of a sound recording (Examples: Streaming a song on platforms like Spotify or Apple Music). 
 
-
 What happens to this copyright when I pass? 
 Copyright is property, so it passes to heirs just like any other asset. It lasts for the author’s lifetime plus 70 years. When the copyright owner passes away, ownership goes to whoever inherits their estate. If they have a will, they can name someone to receive their intellectual property specifically. Without a will, the state determines heirs, typically in this order: spouse, children and grandchildren, parents, siblings, and then other blood relatives. 
-Where did this contract come from? [a]
+Where did this contract come from?
 Uke’, the Uma word for “water,” and a transliterative pun of “ok.” It was originally concocted for a small collaboration between Houma Language Project and Ripple Effect. It was useful, and Hali Dardar continued to iterate on the project under Bvlbancha Public Access with support of Mellon Foundation and A Studio in the Woods. 
-
 
 This version of the Uke’ Contracting System was created in 2026 in collaboration with Glushko-Samuelson Intellectual Property Clinic at the American University by student attorneys Jacqueline Jedrych and Madeline Stoeri, and Hali Dardar of Bvlbancha Public Access. This team believes in promoting accessibility to the legal system, increasing creators’ and artists’ agency over their intellectual property, and supporting Indigenous data sovereignty. Through the creation of this contract, they hope to further these goals for the legal community. 
 
 
 The Uke’ Contracting System is an open-access project of Bvlbancha Public Access.
-
-
 
 
 
@@ -93,9 +89,6 @@ SECTION I. Joint Authorship Agreement.
 A. Collaboration and Joint Authorship.
 ***This clause states that the Parties each agree to collaborate on creating the Work. Joint authorship recognizes the contributions of each Party involved.***
  The Parties agree that the Work is jointly authored and intend that their contributions be merged into inseparable or interdependent parts of a unitary whole. The Parties agree that by selecting, coordinating, and arranging their personal perspectives, opinions, and views to create the Work, each party has contributed independently copyrightable expressions to create the final product.
-
-
-
 
 B. Copyright. 
 ***This clause states that the copyright will initially belong to all the Parties involved in creating the Work. ***
@@ -179,71 +172,6 @@ Knowledge Holder Legal Name
 
 	
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
 
 	________________
 
@@ -313,7 +241,7 @@ The Parties agree this consideration is fair and reasonable and shall be the sol
 
 
 For works owned by multiple Owners:
-For purposes of the license granted under this agreement only, _______ shall collect payment received and distribute it to the rest of the parties who jointly own the copyright in the Licensed Work (“the Owners”) according to their proportion of ownership. By designating __the part[b]y listed above_____ to collect and distribute funds, the Owners do not forfeit any right, title, interest, or ownership of the copyright and retain all licensing powers and rights to remedy for infringement.
+For purposes of the license granted under this agreement only, _______ shall collect payment received and distribute it to the rest of the parties who jointly own the copyright in the Licensed Work (“the Owners”) according to their proportion of ownership. By designating __the party listed above_____ to collect and distribute funds, the Owners do not forfeit any right, title, interest, or ownership of the copyright and retain all licensing powers and rights to remedy for infringement.
 Address of Notice and Payment. 
 ***The Parties specify how and where to send any payment or notifications. The Parties also promise that if their address changes, they will tell the other party.
 All notices between the Licensor and Licensee shall be sent by electronic mail delivered to _______. All payments must be made to _______. If any of the Parties shall change address during the term of the agreement, then they shall give written notice to the other party. 
@@ -358,7 +286,3 @@ Date
 _______
 Licensee
 Date
-
-
-[a]are yall ok with this new framing?
-[b]Are these two blanks significantly different? Could we put "the party listed above" in place of the second blank?
