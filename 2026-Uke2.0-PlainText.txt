@@ -1,0 +1,364 @@
+﻿Guidance for Using the Uke’ Contracting System
+DISCLAIMER: 
+The templates provided through the Uke’ Contracting System are for general informational purposes only and do not constitute legal advice. Use of these templates does not create an attorney-client relationship. Laws vary by jurisdiction, and these templates may not comply with the laws applicable to your situation. Always consult a qualified attorney before entering into any legal agreement. Bvlbancha Public Access makes no representations or warranties of any kind regarding the fitness of these templates for any particular purpose. Bvlbancha Public Access expressly disclaims all liability for any loss, damage, or legal consequence of any kind arising out of or related to the use of, or reliance on, these templates, to the fullest extent permitted by law.  
+When should we sign this contract? 
+Sign this contract before creating the work—for example, right before an interview begins. All parties should understand that they are creating a joint work, and that the copyright will be assigned to and ultimately owned by the Knowledge Holder(s). 
+Who should sign this contract? 
+The party requesting collaboration on the work and the party or parties they wish to collaborate with should each sign this contract. 
+Where should I sign? 
+For both the collaboration agreement and the licensing agreement, all parties should sign at the end of the contract. Additionally, for the collaboration agreement, all parties should initial at the bottom of every page.
+Can I change the format of this contract? 
+Yes, this contract will be binding in any format, including Google Forms, as long as all parties understand the contract, intend to enter it, and sign the contract. Signatures can be digital or typed. 
+Who should have a copy of this document? 
+The person(s) who own the copyright (the Knowledge Holder(s)) and any licensees need to retain copies. It is best practice for all parties to keep a copy for their records. 
+What should I know when using this contract with more than one Knowledge Holder?  
+There are three things to keep in mind. First, all Knowledge Holders owning the copyright may license rights to other parties, even if the other Knowledge Holders are not aware of the license. Next, all Knowledge Holders must agree on their ownership split in the Collaboration Agreement, and any licensing payments must be divided and distributed accordingly, even if not all Knowledge Holders are aware of a particular licensing agreement. For example, if Knowledge Holder A owns 70% and Knowledge Holder B owns 30%, a $150 payment would be split $105 and $45. Finally, wherever there are clauses labeled “For Multiple Knowledge Holders,” those should be included. 
+What should I know when using this contract with a minor party? 
+Minors can use the Uke’ System. In these situations, the contract should be signed by the minor’s legal guardian if possible. If a legal guardian is signing on behalf of their child, they should sign as a party on that party’s line (e.g., sign as a Knowledge Holder). Additionally, whether signed by a guardian or not, a minor can cancel the contract at any time before turning 18. If the contract is cancelled, each party must return anything received (such as payment) and the licensee must stop using the work. 
+What does each side have to contribute? 
+Each party must contribute material that is independently copyrightable – i.e. content that reflects some level of creativity.  Mere ideas or suggestions do not qualify. Copyright law protects the unique way an individual expresses their ideas – the choice of words and techniques a storyteller uses, the creative arrangement of facts in an article or interview. 
+What types of assets should I use this for? 
+Use this system for copyrightable assets, such as video interviews, digital documents, and other computer-stored files, on any subject matter. Copyright protects the expression of ideas, not the underlying facts. For example, if a Knowledge Holder says “New Mexico is in the Southwest” in a video interview, they own the copyright in that video, meaning no one can use it without permission. However, they cannot prevent others from stating the same fact elsewhere. 
+How do I determine what rights I can license? 
+In the licensing agreement, select the rights that apply based on the type of asset. Every asset falls into one of the categories below: 
+
+
+Type of Work 
+	Examples 
+	Rights that May be Licensed 
+	Literary Works 
+	Books, articles, poems, computer programs/software, databases, and website content 
+	Reproduction, derivative works, distribution, public performance, public display  
+	Musical Works 
+	Compositions, including any accompanying words (lyrics) 
+	Reproduction, derivative works, distribution, public performance, public display  
+	Dramatic Works 
+	Plays, operas, and scripts, including accompanying music 
+	Reproduction, derivative works, distribution, public performance, public display  
+	Pantomimes and Choreographic Works 
+	Choreography for dance and pantomime routines 
+	Reproduction, derivative works, distribution, public performance, public display 
+	Pictorial, Graphic, and Sculptural Works 
+	Photographs, paintings, sculptures, maps, logos, technical drawings, and jewelry 
+	Reproduction, derivative works, distribution, public display 
+	Motion Pictures and Audiovisual Works 
+	Feature films, recorded interviews, documentaries, videos, and video games that include both a visual and audio component 
+	Reproduction, derivative works, distribution, public performance, public display 
+	Sound Recordings 
+	The recording of a series of musical, spoken, or other sounds (not the underlying musical composition) 
+	Reproduction, derivative works, distribution, digital audio transmission 
+	Architectural Works 
+	Buildings, architectural plans, and drawings of architectural elements 
+	Reproduction, derivative works, distribution 
+	  
+What do these rights mean in practice? 
+Reproduction - The right to make copies of the work (Examples: Printing a book, downloading a digital image, or copying software).
+Derivative Works - The right to create new works based on the original (Examples: Translating a book, turning a novel into a film, or creating a sequel). 
+Distribution - The right to control how the work is first shared with the public, whether by sale, rental, lease, or lending (Examples: Selling physical books in a store or selling digital files online). 
+Public Performance - The right to play recorded video or audio in a public space, including online (Examples: Playing a song over the radio or in a restaurant, screening a movie, or performing a play). 
+Public Display - The right to show a still image of the work in a public space (Examples: Displaying a painting in a gallery, showing a photo on a website, or showing a still from a movie). 
+Digital Audio Transmission - The right to control digital streaming of a sound recording (Examples: Streaming a song on platforms like Spotify or Apple Music). 
+
+
+What happens to this copyright when I pass? 
+Copyright is property, so it passes to heirs just like any other asset. It lasts for the author’s lifetime plus 70 years. When the copyright owner passes away, ownership goes to whoever inherits their estate. If they have a will, they can name someone to receive their intellectual property specifically. Without a will, the state determines heirs, typically in this order: spouse, children and grandchildren, parents, siblings, and then other blood relatives. 
+Where did this contract come from? [a]
+Uke’, the Uma word for “water,” and a transliterative pun of “ok.” It was originally concocted for a small collaboration between Houma Language Project and Ripple Effect. It was useful, and Hali Dardar continued to iterate on the project under Bvlbancha Public Access with support of Mellon Foundation and A Studio in the Woods. 
+
+
+This version of the Uke’ Contracting System was created in 2026 in collaboration with Glushko-Samuelson Intellectual Property Clinic at the American University by student attorneys Jacqueline Jedrych and Madeline Stoeri, and Hali Dardar of Bvlbancha Public Access. This team believes in promoting accessibility to the legal system, increasing creators’ and artists’ agency over their intellectual property, and supporting Indigenous data sovereignty. Through the creation of this contract, they hope to further these goals for the legal community. 
+
+
+The Uke’ Contracting System is an open-access project of Bvlbancha Public Access.
+
+
+
+
+
+
+________________
+
+
+Uke’ Collaboration Agreement
+Background and Recitals. 
+***This clause names everyone involved in the agreement, states the date the contract takes effect, and describes the Work the Parties are agreeing to create together. ***
+This agreement (“the Agreement”) is made and entered into on_______,(“Effective Date”), by and between _______, (“Requestor”) and _______ (“Knowledge Holder(s)”) (together, “the Parties”); 
+WHEREAS Requestor intends to collaborate with Knowledge Holder(s) in the creation of _______, (“the Work”); 
+WHEREAS Knowledge Holder(s) also intend(s) to collaborate with Requestor in the creation of the Work; 
+WHEREAS the nature of the resulting Work is a jointly authored work and all copyrights related to this work (“the Copyright”) will vest jointly in the Requestor and Knowledge Holder(s);
+WHEREAS, upon creation, the Requestor intends to assign all of their right, title, and interests in the Copyright (and all renewals and extensions) to the Knowledge Holder(s); and 
+WHEREAS the Knowledge Holder(s) wish(es) to receive all right, title, and interests in the Copyright.
+NOW, THEREFORE, in consideration of the mutual promises set forth herein, the Parties agree as follows:
+SECTION I. Joint Authorship Agreement.
+A. Collaboration and Joint Authorship.
+***This clause states that the Parties each agree to collaborate on creating the Work. Joint authorship recognizes the contributions of each Party involved.***
+ The Parties agree that the Work is jointly authored and intend that their contributions be merged into inseparable or interdependent parts of a unitary whole. The Parties agree that by selecting, coordinating, and arranging their personal perspectives, opinions, and views to create the Work, each party has contributed independently copyrightable expressions to create the final product.
+
+
+
+
+B. Copyright. 
+***This clause states that the copyright will initially belong to all the Parties involved in creating the Work. ***
+At the time of creation, copyright in the Work shall vest jointly in the Knowledge Holder(s) and Requestor. Both the Knowledge Holder(s) and the Requestor shall jointly hold all rights, title, and interest in the Work, and any exploitation of the Work.
+C. Term of Agreement. 
+***This clause states that this joint authorship arrangement will exist until all ownership is assigned to the Knowledge Holder(s). ***
+This Agreement enters into full force on the Effective Date above and will continue for the life of the copyrighted Work until terminated by assignment.  
+D. Warranty. 
+***In this clause, all Parties state that they are not violating any laws in creating this Work or signing this Agreement. ***
+Each of the Parties represents and warrants that each has the right to enter into this Agreement, to perform as required hereby, and to grant the rights herein. The Knowledge Holder(s) represent(s) that any material supplied by the Knowledge Holder(s) shall not violate any right of privacy, shall not be libelous, nor shall it infringe on any common law or statutory copyright of a third party. The Requestor represents that any material supplied or editorial, artistic, or other alteration shall not violate any right of privacy, shall not be libelous, nor shall it infringe on any common law or statutory copyright of a third party.
+G. Indemnification. 
+***This clause states that if any Party violates this Agreement, they will be responsible for damages, costs, and expenses related to that violation.***
+The Knowledge Holder(s) agree(s) to indemnify the Requestor against all liability, damage, cost, and expenses, including reasonable attorneys' fees, arising out of a breach of the foregoing representations and warranties. The Requestor agrees to indemnify the Knowledge Holder(s) against all liability, damages, cost, and expenses, including reasonable attorneys' fees, arising out of a breach of the foregoing representations and warranties.
+SECTION II. Assignment.
+A. Assignment. 
+***This clause gives ownership of the entire copyright to the Knowledge Holder(s). It states that the Requestor wants to give up their ownership stake in the copyright and to assign all of it to the Knowledge Holder(s). ***
+***This clause also establishes the proportions of joint ownership if there are multiple Knowledge Holders. Knowledge Holders may choose to give each party an equal ownership stake. Alternatively, multiple Knowledge Holders can set up custom ownership proportions in Appendix A. The ownership proportions in this Agreement determine the proportion of funds paid to each Knowledge Holder under any licensing agreement. ***
+This Copyright Assignment (“the Assignment”) is made on the Effective Date, by and between the Requestor and the Knowledge Holder(s). The Requestor is a joint owner of all right, title, and interests in the Work created by Requestor and Knowledge Holder(s). The Requestor hereby assigns to the Knowledge Holder(s) all of the Requestor's right, title, and interests throughout the world in the Copyright (and all renewals and extensions), together with the right to recover damages, profits, and all other remedies for past infringements thereof. If the work is to be registered, it will be registered in the name(s) of the Knowledge Holder(s). 
+For Multiple Knowledge Holders:
+This assignment is made
+* in equal proportions.
+* in the proportions specified in Appendix A. 
+These proportions apply to all rights associated with the Copyright, and any future additions, modifications, or derivatives of them. The Knowledge Holders jointly agree that any income derived from the licensing or other exploitation of the Copyright will be distributed according to the same proportions as ownership.
+B. Term. 
+***This clause states that the assignment lasts forever and cannot be undone. ***
+This Agreement enters in full force on the Effective Date listed above and continues in perpetuity. The assignment made hereunder is non-revocable.
+C. Inheritance. 
+***This clause states that the copyright is part of the Knowledge Holder’s estate and will be treated like any other property upon their passing.***
+Ownership of this Copyright will enter the estate(s) of the Knowledge Holder(s) and, absent any agreement to the contrary, will flow with the rest of the intellectual property in the estate(s).
+SECTION III. General Terms of the Collaboration Agreement
+A. Governing Law. 
+***This clause allows the Parties to choose which laws will govern this Agreement. The first option is to select a single U.S. state. The second option is to name an Indigenous group that Knowledge Holder(s) have ties to and choose to use those laws where applicable. ***
+Should the parties 
+* This Agreement and all matters arising out of or relating to this Agreement are governed by and construed in accordance with the laws of the state of _______, and the federal laws of the United States of America.
+* A Party or Parties to this agreement, _______, has a relation to _______. Recognizing the historical record of appropriation of Indigenous knowledge and data, this Agreement and all matters arising out of or relating to this Agreement, is governed by, and construed in accordance with, the laws of _______. In the absence of any relevant laws, United States federal law shall apply.
+B. Compensation. 
+***This clause states that neither party needs to pay the other under this Agreement. Payment for use of the Work will be addressed in subsequent licensing agreements.***
+The Parties agree that the opportunity to collaborate on creation of the Work and the mutual promises set forth herein are good and valuable compensation for this Agreement and no further compensation is owed.
+C. Originals of the Work. 
+***In this clause, the Requestor agrees to send originals of the Work to the Knowledge Holder(s). The Knowledge Holder(s) describe(s) how and when to send them.***
+The Requestor agrees to send to the Knowledge Holder(s) _______ originals of the Work within _______. The originals will be sent by _______ in _______.
+D. Binding Effect. 
+***This clause states that this Collaboration Agreement applies to any parties who replace the current Parties, such as the executor of a Knowledge Holder’s will. ***
+This Agreement shall inure to the benefit of and shall be binding upon the executors, administrators, heirs, and assigns of the Parties.
+E. Entire Agreement. 
+***This clause states that this Collaboration Agreement replaces any previous agreements. The Parties may only change this Agreement through another signed, written document.***
+This Agreement constitutes the entire agreement and understanding between the Parties and supersedes any prior agreements, written or oral, with respect to the subject matter hereof. This Agreement may be amended or modified only in signed writing by the Parties.
+F. Severability. 
+***This clause states that if a court holds any piece of this contract invalid, the rest of the contract will be unaffected and still apply.
+Any provisions of this Agreement that are determined to be invalid shall be ineffective, but such invalidity shall not affect the remaining provisions hereof.
+If the foregoing correctly sets forth the understanding of the Parties, please so indicate by signing below. 
+
+
+_______
+Knowledge Holder (or legal guardian)
+Date
+
+
+_______
+Knowledge Holder (or legal guardian)
+Date
+_______
+Knowledge Holder (or legal guardian)
+Date
+_______
+Knowledge Holder (or legal guardian
+Date
+
+
+_______
+Requestor
+Date
+APPENDIX A
+MULTI-CONTRIBUTOR CHART
+Knowledge Holder Legal Name
+	Knowledge Holder Mailing Address
+	Knowledge Holder Email Address
+	% of Work
+	Knowledge Holder Signature
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	________________
+
+
+Uke’ Copyright Licensing Agreement
+Background and Recitals.
+***This clause identifies who is signing the contract, what date the contract begins, and states that all Parties want to create the license. ***
+This Copyright Licensing Agreement (“the Agreement”) is made and entered into on _______ (“the Effective Date”), by and between: _______, (“the Licensor”) and _______ (“the Licensee”) (together, “the Parties”);
+***Here, in the sentences beginning with “WHEREAS,” the licensed rights must match those selected below by checkbox under part A.***
+WHEREAS Licensor is an owner of all copyright rights in _______ (“the Licensed Work”);
+WHEREAS Licensee wishes to obtain from Licensor a nonexclusive license to _______; and
+WHEREAS the Licensor wishes to grant Licensee a nonexclusive license to _______ the Licensed Work.
+NOW, THEREFORE, for and in consideration of the mutual promises set forth hereinafter and other good and valuable consideration set forth herein, Licensor and Licensee agree as follows:
+License Grant. 
+***This clause grants a nonexclusive license. A nonexclusive license allows the Licensor to grant as many licenses as they wish.
+Licensor hereby grants to Licensee, upon the terms and conditions hereinafter set forth, a non-exclusive license to:
+***Using the boxes, the Licensor can check off which rights they wish to license. The rights available to license depend on the type of work. More comprehensive explanations of how to categorize your work are in the accompanying guidance document.
+Article 
+	Type
+	Rights
+	a
+	For any work:
+
+
+	* reproduce 
+* make derivative works 
+* distribute copies 
+	b
+	For literary, musical, dramatic, and choreographic works, pantomimes, and motion pictures and audiovisual works:
+
+
+	* perform publicly 
+
+
+	c
+	For the above or for pictorial, graphic, or sculptural works:
+
+
+	* display publicly
+	d
+	For sound recordings:
+
+
+	* perform publicly by means of digital audio transmission
+	
+
+The Licensee plans to use the Licensed Work to _______.
+Term. 
+***This clause specifies how long the license will last.
+The term of this license shall commence on _______
+and shall:
+* last in perpetuity
+* last for a term of _______, ending on _______.
+Governing Law. 
+***This clause allows the Parties to choose which laws will govern this Agreement. The first option is to select a single U.S. state. The second option is to name an Indigenous group that Licensor has ties to and choose to use those laws where applicable.
+* a. This Agreement and all matters arising out of or relating to this Agreement are governed by and construed in accordance with the laws of the state of _______, and the federal laws of the United States of America.
+* b. A Party or Parties to this agreement, _______, has a relation to _______. Recognizing the historical record of appropriation of Indigenous knowledge and data, this Agreement and all matters arising out of or relating to this Agreement, is governed by, and construed in accordance with, the laws of _______. In the absence of any relevant laws, United States federal law shall apply.
+Territory. 
+***This clause states that the licensed rights are only allowed to be used in the United States or areas subject to United States’ copyright law.
+The rights granted to the Licensee hereunder shall be exercised by the Licensee within the United States and all areas subject to the copyright laws of the United States (“the Territory”). Both Parties agree the Licensor may grant other non-exclusive licenses to exploit the Licensed Work in all or part of the Territory. 
+Compensation. 
+***This clause establishes whether and how much the Licensee will pay to the Licensor for the license. When multiple parties own a work, this clause specifies that the Licensor who signs the Licensing Agreement is responsible for giving the appropriate proportion of payment to the other owners. 
+In consideration for the license, the Licensee shall 
+* pay to the Licensor _______. 
+* fulfill the mutual promises made herein. 
+The Parties agree this consideration is fair and reasonable and shall be the sole consideration provided for the license. The payment shall be made to _______, through _______.
+
+
+For works owned by multiple Owners:
+For purposes of the license granted under this agreement only, _______ shall collect payment received and distribute it to the rest of the parties who jointly own the copyright in the Licensed Work (“the Owners”) according to their proportion of ownership. By designating __the part[b]y listed above_____ to collect and distribute funds, the Owners do not forfeit any right, title, interest, or ownership of the copyright and retain all licensing powers and rights to remedy for infringement.
+Address of Notice and Payment. 
+***The Parties specify how and where to send any payment or notifications. The Parties also promise that if their address changes, they will tell the other party.
+All notices between the Licensor and Licensee shall be sent by electronic mail delivered to _______. All payments must be made to _______. If any of the Parties shall change address during the term of the agreement, then they shall give written notice to the other party. 
+Attribution. 
+***This clause allows the Licensor to specify how they would like to be credited for the work.
+In connection with any exploitation of the Licensed Work, the Licensee agrees to: 
+* cite with Licensor’s full legal name
+* cite Licensor with a different name: _______
+* use without name
+* use without name, likeness, or image
+* do not use the Licensor’s work
+Modifications. 
+***This clause establishes that the Licensee may make changes to create the final product. 
+The Licensee may modify the Licensed Work as necessary and appropriate for use in connection with the licensed rights.
+Subsequent Transfers. 
+***This clause forbids either Party from transferring this license.
+This License is personal to the Licensee. The Licensee shall not assign, delegate, transfer, pledge, or otherwise encumber this Agreement or any rights or obligations hereunder, voluntarily or involuntarily, by operation of law or otherwise. Any attempted assignment or transfer in violation of this section shall be null and void. 
+Warranties and Representations. 
+***In this clause, the Licensor promises that they own the copyright and are not infringing on anyone else’s copyright.
+Licensor warrants that the Licensed Work does not infringe the copyrights of any third party. Licensor warrants that the copyright to the Licensed Work was duly obtained, is valid, and is currently in force.
+Indemnification. 
+*** This clause states that if any Party violates this Agreement, they will be responsible for damages, costs, and expenses related to that violation.
+Indemnification by Licensor. Licensor hereby indemnifies Licensee and holds them harmless against any claim of copyright infringement arising directly out of the Licensee's duly licensed use of the Licensed Work, provided that such claim arises from exploitation of the Licensed Work itself, not from any act or omission of the Licensee. 
+Indemnification by Licensee. Licensee hereby indemnifies Licensor and holds Licensor harmless against any claim of personal injury, property damage, libel, slander, or intellectual property infringement caused by the Licensee in connection with their exploitation of the Licensed Work. 
+Default. 
+***This clause states that if the Licensee does not follow through on any term of this Agreement, including payment, the Licensor may cancel the agreement by sending an email or letter to the Licensee. The Licensee then has 60 days to fix the issue. If they do not, the agreement is cancelled, and the license is no longer in effect.
+If Licensee fails to abide by the obligations of this Agreement, including the obligation to make any payment, Licensor shall have the option to cancel this Agreement by providing 60 days written notice (“the Cure Period”). The Licensee shall have the option of preventing the termination of this Agreement by taking corrective action to cure the default, so long as the corrective action is taken within the Cure Period and there are no other defaults.
+Entire Agreement. 
+This Agreement constitutes the entire agreement and understanding between the Parties and supersedes any prior agreements, written or oral, with respect to the subject matter hereof. This Agreement may be amended or modified only in signed writing by the Parties.
+*** This clause states that this Licensing Agreement replaces any previous agreements. The Parties may only change this Agreement through another signed, written document.
+Severability.
+*** This clause states that if a court holds any piece of this contract invalid, the rest of the contract will be unaffected and still apply.
+Any provisions of this Agreement that are determined to be invalid shall be ineffective, but such invalidity shall not affect the remaining provisions hereof. 
+If the foregoing correctly sets forth the understanding of the Parties, please so indicate by signing below. 
+
+
+_______
+Licensor (or legal guardian)
+Date
+
+
+_______
+Licensee
+Date
+
+
+[a]are yall ok with this new framing?
+[b]Are these two blanks significantly different? Could we put "the party listed above" in place of the second blank?
